@@ -1,0 +1,8 @@
+fastapi==0.103.1
+uvicorn==0.23.2
+pydantic==2.3.0
+googlemaps==4.10.0
+haversine==2.8.0
+folium==0.14.0
+polyline==2.0.0
+python-multipart==0.0.6
